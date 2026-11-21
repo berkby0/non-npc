@@ -1,1 +1,3 @@
 # non-npc
+
+# NPCLERİ KALDIRMA SİSTEMİ FİVEM
